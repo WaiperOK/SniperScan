@@ -1,0 +1,2 @@
+C:\Users\Wrzesien\source\repos\portscan\Debug\portscan.exe
+C:\Users\Wrzesien\source\repos\portscan — копия\Debug\portscan.exe
