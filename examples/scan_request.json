@@ -1,0 +1,7 @@
+{
+  "target": "scanme.nmap.org",
+  "ports": "22,80,443",
+  "timeout_ms": 300,
+  "concurrency": 100,
+  "banner": true
+}
